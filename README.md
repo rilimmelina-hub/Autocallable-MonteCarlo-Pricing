@@ -1,4 +1,5 @@
 📊 Autocallable Phoenix : Pricing & Hedging Engine
+
 Ce projet est une simulation complète du cycle de vie d'un produit structuré en salle de marché (Equity Derivatives). Il couvre la structuration, le pricing par Monte Carlo, le calcul des Grecques et la mise en place d'une stratégie de couverture (hedging).
 
 🎯 Contexte
