@@ -13,9 +13,11 @@ Modélisation du sous-jacent par un Mouvement Brownien Géométrique (GBM).
 Discrétisation d'Euler.
 Implémentation de variables antithétiques pour réduire la variance de l'estimateur (division de l'erreur par ~3 sans surcoût CPU).
 Calcul des Grecques (Delta, Vega) par méthode Bump and Reprice.
+
 💻 Technologies utilisées
 Python (NumPy, Matplotlib)
 Concepts : Calcul Stochastique, Monte Carlo, Options Exotiques, Grecques.
+
 📈 Résultats et Visualisations
 1. Convergence du prix Monte Carlo
 La simulation (400 000 trajectoires) converge vers une Fair Value de 97.83% du nominal.Convergence MC
